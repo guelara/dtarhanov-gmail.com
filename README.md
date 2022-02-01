@@ -1,2 +1,2 @@
-# dtarhanov-gmail.com
+# dtarhanov@gmail.com
 Мой первый сайт
