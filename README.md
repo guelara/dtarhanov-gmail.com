@@ -1,2 +1,2 @@
-# dtarhanov@gmail.com
+# dtarhanov.github.io
 Мой первый сайт
